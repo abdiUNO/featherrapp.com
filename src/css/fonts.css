@@ -1,0 +1,39 @@
+.font-elegant * {
+    font-family: Montserrat,sans-serif
+}
+
+.font-elegant .bold,.font-elegant .heading,.font-elegant .heading-lrg,.font-elegant .heading-sml {
+    font-family: Spectral,serif
+}
+
+.font-friendly * {
+    font-family: Montserrat,sans-serif
+}
+
+.font-hacker * {
+    font-family: 'Roboto Mono',monospace
+}
+
+.font-hacker .heading,.font-hacker .heading-lrg,.font-hacker .heading-sml {
+    font-family: Roboto,sans-serif
+}
+
+.font-modern * {
+    font-family: Poppins,sans-serif
+}
+
+.font-modern .heading,.font-modern .heading-lrg,.font-modern .heading-sml {
+    font-weight: 300
+}
+
+.font-neutral * {
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol"
+}
+
+.font-serious * {
+    font-family: Montserrat,sans-serif
+}
+
+.font-serious .bold,.font-serious .heading,.font-serious .heading-lrg,.font-serious .heading-sml {
+    font-family: Eczar,serif
+}

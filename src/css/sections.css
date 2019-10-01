@@ -1,0 +1,48 @@
+.orange-section {
+  background-color: #FF8C00
+}
+
+.orange-section .primary-color {
+  color: #FFFFFF
+}
+
+.orange-section .secondary-color {
+  color: #FFFFFF
+}
+
+.orange-section .accent-bg {
+  background-color: #2d3436
+}
+
+.orange-section .secondary-bg {
+  background-color: #2d3436
+}
+
+.orange-section .svg-fill {
+  fill: #FFFFFF
+}
+
+.white-section {
+  background-color: #FFFFFF
+}
+
+.white-section .primary-color {
+  color: #2d3436
+}
+
+.white-section .secondary-color {
+  color: #2d3436
+}
+
+.white-section .accent-bg {
+  background-color: #FF8C00
+}
+
+.white-section .secondary-bg {
+  background-color: #FF8C00
+}
+
+.white-section .svg-fill {
+  fill: #FFFFFF
+}
+
